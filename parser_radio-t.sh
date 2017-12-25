@@ -12,5 +12,5 @@ wget -c -P /mnt16/radio-t/ $DOWNLOAD
 # -c докачивание в случае обрыва
 # -P путь куда именно скачать
 
-echo -e '\e[32m'"Done!"
+echo -e '\e[32m'"All done!"
 
